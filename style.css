@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background: linear-gradient(135deg, #efc6f5, #bdc2f7);
+    background: linear-gradient(135deg, #ffffff, #2530a0);
     color: white;
     min-height: 100vh;
     margin: 0;
@@ -19,7 +19,7 @@ body {
 }
 
 .navbar {
-    background: linear-gradient(135deg, #7f329e, #1c2aaa);
+    background-color: #2530a0;
     border-radius: 20px;
     box-shadow: #9aecbc;
 }
@@ -33,7 +33,7 @@ body {
 }
 
 .logo-1 {
-    width: 100px;
+    width: 70px;
     height: 70px;
     border-radius: 50%;
 }
