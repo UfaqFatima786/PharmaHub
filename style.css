@@ -191,10 +191,11 @@ border-radius: 20px;
 }
 .categories{
     background:#5362b4;
+    border-radius: 20px;
 }
 
 .section-title span{
-    color:#0d6efd;
+    color:#000000;
     font-weight:700;
     text-transform:uppercase;
     letter-spacing:2px;
@@ -207,7 +208,7 @@ border-radius: 20px;
     color:#063970;
 }
 .section-title p{
-    color:#666;
+    color:#000000;
     max-width:650px;
     margin:auto;
 }
@@ -236,6 +237,7 @@ border-radius: 20px;
 
 }
 .category-card:hover::before{
+    cursor: pointer;
     height:100%;
 }
 
@@ -264,7 +266,7 @@ border-radius: 20px;
 }
 
 .category-card p{
-    color:#666;
+    color:#131111;
     margin-bottom:20px;
 }
 
@@ -275,6 +277,7 @@ border-radius: 20px;
     transition:.4s;
 }
 .category-card:hover{
+    cursor: pointer;
     transform:translateY(-15px);
 }
 
@@ -285,9 +288,11 @@ border-radius: 20px;
 .category-card:hover h4,
 .category-card:hover p,
 .category-card:hover a{
+    cursor: pointer;
     color:white;
 }
 
 .category-card:hover a{
+    cursor: pointer;
     letter-spacing:1px;
 }
