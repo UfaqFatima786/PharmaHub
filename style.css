@@ -513,6 +513,20 @@ body {
 }
 
 @media (max-width:992px) {
+    .offer-box {
+        padding: 50px 30px;
+        text-align: center;
+
+    }
+
+    .offer-box h2 {
+        font-size: 36px;
+    }
+
+    .offer img {
+        margin-top: 40px;
+        max-width: 250px;
+    }
 
     .categories {
         border-radius: 15px;
@@ -634,6 +648,33 @@ body {
 }
 
 @media (max-width:576px) {
+    .offer-box {
+        padding: 40px 20px;
+    }
+
+    .offer-box h2 {
+        font-size: 28px;
+
+    }
+
+    .offer-box p {
+        font-size: 15px;
+    }
+
+    .offer-btn {
+        width: 100%;
+        text-align: center;
+    }
+
+    .product-card img {
+        width: 140px;
+        height: 140px;
+    }
+
+    .price {
+        font-size: 20px;
+    }
+
     .categories {
         border-radius: 10px;
         padding: 40px 10px;
