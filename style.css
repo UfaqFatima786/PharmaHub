@@ -29,6 +29,7 @@ body {
 }
 
 .nav-link:hover {
+    cursor: pointer;
     color: rgb(206, 205, 205);
 }
 
@@ -111,6 +112,7 @@ body {
 }
 
 .btn-shop:hover {
+    cursor: pointer;
     background: #1ea85b;
     color: white;
 }
@@ -124,6 +126,7 @@ body {
 }
 
 .btn-contact:hover {
+    cursor: pointer;
     background: white;
     color: #0b3d91;
 }
@@ -287,6 +290,7 @@ body {
 }
 
 .category-card:hover .icon-box {
+    cursor: pointer;
     transform: rotate(360deg) scale(1.1);
     background: white;
 }
@@ -347,12 +351,14 @@ body {
 }
 
 .feature-box:hover {
+    cursor: pointer;
     transform: translateY(-10px);
     border-left: 5px solid #20c997;
     box-shadow: 0 20px 35px rgba(0, 0, 0, 0.589);
 }
 
 .feature-box:hover .feature-icon {
+    cursor: pointer;
     background: linear-gradient(135deg, #0d6efd, #20c997);
     color: #fff;
     transform: rotate(360deg);
@@ -432,15 +438,18 @@ body {
 }
 
 .cart-btn:hover {
+    cursor: pointer;
     background: #20c997;
 }
 
 .product-card:hover {
+    cursor: pointer;
     transform: translateY(-12px);
 }
 
 .product-card:hover img {
-    transform: scale(1.12) rotate(5deg);
+    cursor: pointer;
+    transform: scale(1.12) rotate(1deg);
 }
 
 .offer {
@@ -489,6 +498,7 @@ body {
 }
 
 .offer-btn:hover {
+    cursor: pointer;
     background: #063970;
     color: white;
 }
@@ -546,6 +556,7 @@ body {
 }
 
 .footer ul li a:hover {
+    cursor: pointer;
     color: #20c997;
     padding-left: 6px;
 
@@ -570,6 +581,7 @@ body {
 }
 
 .social-icons a:hover {
+    cursor: pointer;
     background: #20c997;
     transform: translateY(-5px);
 }
@@ -623,6 +635,7 @@ body {
 }
 
 .testimonial-card:hover{
+    cursor: pointer;
     transform:translateY(-10px);
     box-shadow:0 18px 35px rgba(0,0,0,.15);
 }
