@@ -121,7 +121,7 @@ This project is developed for educational and portfolio purposes.
 
 **Syeda Ufaq Fatima**
 
-Frontend Developer | GIS Enthusiast | MBA Student
+Frontend Developer | GIS Enthusiast 
 
 GitHub: https://github.com/UfaqFatima786
 
